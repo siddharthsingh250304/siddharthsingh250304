@@ -6,35 +6,7 @@
 I'm a passionate dual-degree Computer Science student with a love for Systems, AI/ML Adventures, and exploring the frontiers of Quantum Computing.
 
 
-## 🌐 Connect With Me
 
-<p align="left">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-   
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]"+Computing+Explorer;Full-Stack+Developer" alt="Typing SVG" /></a>
-
-I'm a passionate dual-degree target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-    
-  <a href="[YOUR_INSTAGRAM_URL]" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logo Computer Science student with a love for Systems and AI/ML Adventures.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077BColor=white" alt="Instagram">
-  </a>
-  <!-- Add other relevant links here -->
-</p>5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-
-
----
 
 ## 🚀 About Me & Interests
 
