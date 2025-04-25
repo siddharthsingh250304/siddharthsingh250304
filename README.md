@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399¢er=true&vCenter=true&width=435&lines=Passionate+Computer+Science+Student;Systems+Programming+Enthusiast;AI%2FML+Adventurer;Quantum!
+# Hi there 👋, I'm [Siddharth Singh
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=34D399¢er=true&vCenter=true&width=435&lines=Passionate+Computer+Science+Student;Systems+Programming+Enthusiast;AI%2FML+Adventurer;Quantum+Computing+Explorer;Full-Stack+Developer" alt="Typing SVG" /></a>
