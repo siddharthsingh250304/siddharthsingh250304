@@ -5,7 +5,6 @@
 
 I'm a passionate dual-degree Computer Science student with a love for Systems, AI/ML Adventures, and exploring the frontiers of Quantum Computing.
 
----
 
 ## 🌐 Connect With Me
 
